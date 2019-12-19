@@ -1,0 +1,2 @@
+# Candlestick-Pattern
+# CandleStick-Pattern
